@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-bsearch-Bagian5__C\SK-Lib-stdlib.h-bsearch-Bagian5__C\Source.c(33,16): warning C4477: 'printf' : format string '%F' requires an argument of type 'double', but variadic argument 2 has type 'char **'
+  SK-Lib-stdlib.h-bsearch-Bagian5__C.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-bsearch-Bagian5__C\Debug\SK-Lib-stdlib.h-bsearch-Bagian5__C.exe
